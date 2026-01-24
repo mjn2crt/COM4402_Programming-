@@ -29,4 +29,4 @@ at the end of the quiz
 3. Open a terminal in the project directory.
 4. Run the program using:
 ```bash
-python quiz.py
+quiz.py
